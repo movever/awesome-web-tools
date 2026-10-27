@@ -21,6 +21,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Text Tools
 
+- [7emoji](https://7emoji.fun) - Translate text into up to 10 emoji suggestions in the browser.
 - [Ambigram Generator](https://intabtools.com/text/ambigram-generator) - Convert text into Unicode characters that read the same when rotated 180 degrees.
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Convert text between upper, lower, title, sentence, and other cases.
@@ -112,6 +113,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [GPA Calculator](https://dailytoolkit.app/tools/gpa-calculator) - Calculate semester GPA using grades and credit hours.
 - [Grade Calculator](https://dailytoolkit.app/tools/grade-calculator) - Calculate overall course scores from assignments, tests, and other grades.
 - [High School GPA Calculator](https://dailytoolkit.app/tools/high-school-gpa-calculator) - Calculate high-school GPA from course grades and credits.
+- [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists.
 - [RapidTables](https://www.rapidtables.com) - Use reference tables, converters, calculators, and educational utilities.
 - [Test Grade Calculator](https://dailytoolkit.app/tools/test-grade-calculator) - Calculate a test percentage and letter grade from correct answers.
 - [Weighted GPA Calculator](https://dailytoolkit.app/tools/weighted-gpa-calculator) - Calculate weighted GPA using course grades, credits, and course levels.
@@ -163,6 +165,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
 - [Naratake WiFi QR Code Generator](https://naratake.com/en/tools/wifi-qr-code-generator) - Generate a scannable Wi-Fi QR code locally in the browser.
+- [Odluck](https://odluck.com) - Generate random numbers, passwords, colors, cards, animals, and countries in the browser.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate customizable random passwords.
 - [Pet Names](https://petnames.dog/) - Generate and explore pet and animal name ideas.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create QR codes for URLs, text, and other data.

@@ -116,6 +116,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Grade Calculator](https://dailytoolkit.app/tools/grade-calculator) - Calculate overall course scores from assignments, tests, and other grades.
 - [High School GPA Calculator](https://dailytoolkit.app/tools/high-school-gpa-calculator) - Calculate high-school GPA from course grades and credits.
 - [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists.
+- [PuzzlePave](https://puzzlepave.com) - Free packing / polyomino puzzle with 100 levels on an 8×8 board in the browser.
 - [RapidTables](https://www.rapidtables.com) - Use reference tables, converters, calculators, and educational utilities.
 - [Test Grade Calculator](https://dailytoolkit.app/tools/test-grade-calculator) - Calculate a test percentage and letter grade from correct answers.
 - [Weighted GPA Calculator](https://dailytoolkit.app/tools/weighted-gpa-calculator) - Calculate weighted GPA using course grades, credits, and course levels.

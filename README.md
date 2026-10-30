@@ -22,6 +22,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 ## Text Tools
 
 - [7emoji](https://7emoji.fun) - Translate text into up to 10 emoji suggestions in the browser.
+- [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles.
 - [Ambigram Generator](https://intabtools.com/text/ambigram-generator) - Convert text into Unicode characters that read the same when rotated 180 degrees.
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Convert text between upper, lower, title, sentence, and other cases.
@@ -156,6 +157,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 ## Video Tools
 
 - [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos by target size or quality preset in the browser.
+- [Html2MP4](https://html2mp4.com) - Turn HTML, prompts, templates, and websites into MP4 videos in the browser.
 - [YouTube Summarizer](https://youtubesummarizer.org) - Paste a YouTube link and get a clear summary with key points in the browser.
 
 ## Generators
